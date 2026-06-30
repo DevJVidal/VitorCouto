@@ -1,4 +1,4 @@
-# 🚀 Landing Page Premium & Sistema de Aplicação para Personal Trainer
+# 🚀 Landing Page Premium & Sistema de Aplicação para Personal Trainer - Versão 1 (DEMO)
 
 Uma solução digital de alta performance desenvolvida sob medida para Personal Trainers e Treinadores de Elite que desejam posicionar seu trabalho como um serviço premium, triar potenciais clientes de forma automatizada e fechar consultorias de alto valor diretamente pelo WhatsApp.
 
