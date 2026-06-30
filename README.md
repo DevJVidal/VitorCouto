@@ -50,6 +50,7 @@ Ao finalizar a aplicação, o sistema gera instantaneamente uma mensagem profiss
 🔥 Compromisso de Evolução:
 • Disposto(a) a investir 3 meses? [Sim/Não]
 
+```
 
 ## 3. Identidade Visual Premium e Altamente Conversiva
 Tema Cosmic Slate: Paleta de cores moderna em tons de grafite escuro com detalhes em azul neon e verde ciano.
@@ -67,7 +68,7 @@ Ao apresentar este projeto para um Personal Trainer, enfatize os seguintes ponto
 
 "Sua consultoria com escala nacional": Graças à seleção inteligente de cidades, ele pode fechar tanto alunos para o consultório físico dele quanto alunos online de qualquer outro estado do Brasil.
 
---
+---
 
 📄 Direitos Autorais
 © Janderson Dias – Todos os direitos reservados.
